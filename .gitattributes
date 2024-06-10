@@ -1,9 +1,10 @@
-# Markdown
-*.md linguist-detectable=true
-*.md linguist-documentation=false
+*               text eol=lf
+.*              text eol=lf
 
-# JSON
-*.json linguist-detectable=true
+*.png           binary
 
-# YAML
-*.yml linguist-detectable=true
+*.md            diff=markdown
+
+/.github        export-ignore
+/docs           export-ignore
+/CHANGELOG.md   export-ignore
