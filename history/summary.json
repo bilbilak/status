@@ -4,19 +4,19 @@
     "url": "https://artifex.blog",
     "icon": "https://icons.duckduckgo.com/ip3/artifex.blog.ico",
     "slug": "artifex-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 440,
-    "timeDay": 466,
-    "timeWeek": 425,
-    "timeMonth": 468,
-    "timeYear": 440,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "94.34%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.86%",
+    "time": 434,
+    "timeDay": 326,
+    "timeWeek": 395,
+    "timeMonth": 458,
+    "timeYear": 434,
     "dailyMinutesDown": {
-      "2024-07-23": 0
+      "2024-07-23": 82
     }
   },
   {
