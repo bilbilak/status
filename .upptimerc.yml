@@ -23,3 +23,43 @@ i18n:
   footer: ''
 
 sites:
+#  - name: artifex.blog
+#    url: https://artifex.blog
+#    maxResponseTime: 5000
+
+  - name: bilbilak.dev
+    url: https://bilbilak.dev
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 304
+
+  - name: refred.to
+    url: https://refred.to
+    icon: https://raw.githubusercontent.com/bilbilak/refred/main/.github/assets/refred-icon.png
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 302
+      - 400
+
+  - name: fontfave.com
+    url: https://fontfave.com
+    icon: https://raw.githubusercontent.com/bilbilak/fontfave/main/.github/assets/fontfave-icon.png
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 304
+
+  - name: coravel.rs
+    url: https://coravel.rs
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 304
+
+  - name: docs.coravel.rs
+    url: https://coravel.rs/docs/
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 304
